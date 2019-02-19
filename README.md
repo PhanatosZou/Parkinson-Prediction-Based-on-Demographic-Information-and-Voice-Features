@@ -1,4 +1,4 @@
-## Parkinson's disease is a long-term degenerative disorder of the central nervous system, whose causes are still shrouded in mystery. People who suffer from Parkinson's disease are likely to be faced with both serious thinking and behavioral problems. And the public's awareness is increased in recent years.
+### Parkinson's disease is a long-term degenerative disorder of the central nervous system, whose causes are still shrouded in mystery. People who suffer from Parkinson's disease are likely to be faced with both serious thinking and behavioral problems. And the public's awareness is increased in recent years.
 
 My project uses demographic and vocal features to diagnose Parkinson's disease by machine learning algorithms. 
 
